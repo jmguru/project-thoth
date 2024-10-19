@@ -80,10 +80,5 @@ This shows how to reset all of your changes to start again. Check the status aft
 ## Home work
   - Create a new branch copy of datathon in the same repository
   - Practice create a mock PR or an actual change to our copy of datathon.
-  - 
 ## Next time:
-- Remote SSH
-- Editing python in VC
-- Using plint in VC
-- Integrating github with VC
-- Another PR use-case
+- More practice of command line
