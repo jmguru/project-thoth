@@ -2,6 +2,7 @@
 
 ## Visual Code
 * Summarized some basic features
+* Talked a little about MarkDown
 ## Github operations
 ### Cloning
 #### This clones the repo and the 'main' branch to a directory called 'Project0-OOP'
